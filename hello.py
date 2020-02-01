@@ -1,2 +1,2 @@
 print ("hello world")
-print("lol")
+print("123lol")
