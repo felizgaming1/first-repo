@@ -1,10 +1,11 @@
-#consider an array of 11 i.e
-[0]  [0]  [0]  [0]  [0]  [0]  [0]  [0]  [0]  [0]  [0]
-c0   c1   c2   c3   c4   c5   c6   c7   c8   c9   c10
+#an array to be print should have this value
+[72]   [101]    [108]     [108]      [ 111]     [32]      [119]   [111]    [114]     [108]     [100]
+ H       e        l          l          o     [space]       w       o        r         l         d
+Disclaimer: Use the code giving in the blog because this won't work because i don't know the comment charactor of brainfuck bareme for this.
 
 
-++++++++++
-[ loop will run 10 times until c0==0
+++++++++++  #c0=10
+[           loop will run 10 times until c0==0
 >+++++++    #c1=7  
 >++++++++++ #c2=10
 >+++        #c3=3
